@@ -40,8 +40,8 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+Felipe dos Anjos 
+https://www.linkedin.com/in/felipe-dos-anjos-/
 
 ## Histórico de versões.
 
