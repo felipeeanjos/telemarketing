@@ -1,40 +1,23 @@
 # Título do projeto
 
-Um simples resumo do uso/propósito do projeto.
+Análise de dados de telemarketing
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Realizamos uma análise de dados, onde a partir do link é possível carregar o dataframe fornecido no github, e então podendo aplicar filtros nos dados de sua escolha, dando diversas informações gráficas e então podemos baixar os dados filtrados em excel se desejado.
 
 ## Link para aplicação
 https://telemarketingstrs.onrender.com/
 
-## Utilização
-
-### Dependencias
-
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
 ### Instalação
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+Somente é necessário baixar o arquivo csv disponível no https://github.com/felipeeanjos/telemarketing e então poderá utilizar a aplicação a partir do link https://github.com/felipeeanjos/telemarketing
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+Acessar o link fornecido , carregar o arquivo csv baixado, aplicar os filtros de sua escolha, executar o download se necessário
 
 ## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
 
 ## Autores
 
@@ -52,7 +35,7 @@ https://www.linkedin.com/in/felipe-dos-anjos-/
 
 ## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
+Esse projeto possui licença de uso Felipe dos Anjos - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
