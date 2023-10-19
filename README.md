@@ -33,9 +33,6 @@ https://www.linkedin.com/in/felipe-dos-anjos-/
 * 0.1
     * Primeira versão
 
-## Licença de uso
-
-Esse projeto possui licença de uso Felipe dos Anjos - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
